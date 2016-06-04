@@ -1,3 +1,6 @@
+# ignore playground files
+playground/
+
 # Lines starting with '#' are considered comments--in fact, they are comments.
 # ignore compiled files
 *.pyc
