@@ -1,5 +1,6 @@
 # ignore playground files
 playground/
+.ipynb_checkpoints/
 
 # Lines starting with '#' are considered comments--in fact, they are comments.
 # ignore compiled files
