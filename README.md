@@ -14,3 +14,9 @@
 > cd bganalytics
 > pip install -r requirements.txt
 ```
+
+or using Anaconda
+
+```
+> conda create --name bgds python=3 jupyter numpy python-dateutil pytz pandas statsmodels
+```
